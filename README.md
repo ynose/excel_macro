@@ -9,7 +9,10 @@ Excel ショートカットキー用アドイン
 
 ribbon_sample.xlsm
 =============
-Excel2010で、VBA(アドイン)にリボンを組み込むサンプル  
-リボンの編集には[Custom UI Editor for Microsoft Office](http://openxmldeveloper.org/blog/b/openxmldeveloper/archive/2009/08/07/7293.aspx)が必要  
+Excel2010で、VBA(アドイン)にリボンを組み込むサンプル。  
+リボンの編集にはCustom UI Editor for Microsoft Officeが必要。  
+
 ＜参考＞
-[VBAで作ったアドインをリボン付で配布する](http://qiita.com/fmaeyama/items/93d10a1a5cd6cd6e9dd8)
+* [Custom UI Editor for Microsoft Office](http://openxmldeveloper.org/blog/b/openxmldeveloper/archive/2009/08/07/7293.aspx)
+* [VBAで作ったアドインをリボン付で配布する](http://qiita.com/fmaeyama/items/93d10a1a5cd6cd6e9dd8)  
+* [Office 2010 Icon Viewer](http://www.vector.co.jp/soft/winnt/business/se480268.html)
